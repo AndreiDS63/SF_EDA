@@ -1,2 +1,1 @@
-print('Hello world')
-print(5+99)
+print('Hello world may be')
