@@ -131,3 +131,4 @@ dmypy.json
 # созданные мной, не нужные
 mymodule.py
 *.csv
+*.pdf
